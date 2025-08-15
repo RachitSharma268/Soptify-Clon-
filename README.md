@@ -1,6 +1,5 @@
 # 🎵 Spotify Clone
 
-![Spotify Clone Banner](https://via.placeholder.com/1200x300?text=Spotify+Clone)
 
 ## 📌 Overview
 A fully responsive **Spotify Clone** built using modern web technologies.  
