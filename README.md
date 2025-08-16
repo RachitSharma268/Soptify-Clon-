@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎵 Spotify Clone
 
 
@@ -26,10 +25,9 @@ It replicates the core design and functionalities of the popular Spotify music s
 ---
 
 ## 📂 Project Structure
-=======
 # 🎵 Spotify Clone
 
-![Spotify Clone Banner](https://via.placeholder.com/1200x300?text=Spotify+Clone)
+
 
 ## 📌 Overview
 A fully responsive **Spotify Clone** built using modern web technologies.  
@@ -56,4 +54,3 @@ It replicates the core design and functionalities of the popular Spotify music s
 
 ## 📂 Project Structure
 
->>>>>>> 9b573577ba95691399cf96650e6bf92e27937e24
